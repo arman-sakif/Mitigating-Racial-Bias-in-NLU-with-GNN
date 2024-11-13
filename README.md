@@ -2,6 +2,9 @@
 
 This repo currently contains the data pre-processing code implementation. Please click the 'data_cleaning_for_GNN.ipynb' file. 
 
+For the Model training part visit this github [repo]([url](https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN)): 
+https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN
+
 The code implementation uses google colab and google drive. To use it, you would need to use a gmail account and grant permissions.
 
 ```python
